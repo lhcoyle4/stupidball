@@ -21,8 +21,8 @@ config/icon="res://icon.png"
 
 [display]
 
-window/size/width=360
-window/size/height=840
+window/size/width=720
+window/size/height=1280
 
 [importer_defaults]
 
